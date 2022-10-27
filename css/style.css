@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+h1 {
+    color: whitesmoke; 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2%;
+    color: whitesmoke; 
+}
+
+body{
+    background-color: black;
+}
+
+.miNav{
+    color: white;
+    background-color:black;
+}
+
+.link-propio{
+    color: white;
+    background-color: black;
+}
+
+.link-propio:hover{
+    color: aqua;
+    background-color: black;
+}
+
+.mi-busqueda{
+    color: white;
+    border-color: white;
+}
+
+.mi-busqueda:hover{
+    color: aqua;
+    border-color: aqua;
+}
+
+.btn-propio{
+    background-color: black;
+    color: white;
+}
+
+.btn-propio:hover{
+    background-color:aqua;
+    color: black;
+}
+
+.producto{
+    transition: all 0.4s;
+    }
+
+.producto:hover{
+transform: scale(1.10);
+}
+
+.texto {
+    font-size: 20px;
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    margin: 3% 1.5%;
+    background-color: black;
+    padding: 2%;
+    border: 1.5px solid;
+    border-radius: 10px;
+    display: block;
+    text-align: justify;
+}
+
+.texto2 {
+    text-align: center;
+    font-size: 22px;
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    background-color: black;
+    padding: 1%;
+}
+
+
